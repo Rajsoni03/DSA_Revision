@@ -20,11 +20,11 @@
 
 ### Binary Trees (Day 2)
 - Basic Tree Struction Quesions
-    - No. of Nodes
-    - No. of leaf node
-    - Max Hight of the tree
-    - Min Hight of the tree
-    - Width of the tree
+    - No. of Nodes -> Done
+    - No. of leaf node -> Done
+    - Max Hight of the tree -> Done
+    - Min Hight of the tree -> Done
+    - Width/Diameter of the tree -> Done
     - Node Value Sum
 - Tree View
     - Recurrsive
